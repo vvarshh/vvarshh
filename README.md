@@ -2,7 +2,7 @@
 
 > Implementation Consultant @ Fintech · AI Engineer · Building with LLMs, RAG & MCP
 
-Varsha is an AI Engineer and Implementation Consultant working at the intersection of financial technology and applied AI. By day she drives large-scale data and trading system integrations at a fintech firm serving major exchanges. Outside of that she builds with LLMs — RAG pipelines, agentic assistants, and MCP servers. Currently based in Singapore, targeting AI Engineer roles in London.
+Varsha is an AI Engineer and Implementation Consultant working at the intersection of financial technology and applied AI. By day she drives large-scale data and trading system integrations at a fintech firm serving major exchanges. Outside of that she builds with LLMs — RAG pipelines, agentic assistants, and MCP servers. Currently based in Singapore, targeting AI Engineer roles
 
 <p style="height:1.5em"></p>
 
