@@ -1,19 +1,8 @@
-<table>
-<tr>
-<td valign="top" width="30%">
-<img src="photo.jpg" alt="Varsha Ramkumar" width="200" style="border-radius: 50%"/>
-</td>
-<td valign="top" width="70%">
-
 # Hi there <img src="Hi.gif" width="29px"> I'm Varsha Ramkumar
 
 > Implementation Consultant @ Fintech Firm · AI Engineer · Building with LLMs, RAG & MCP
 
 I'm an AI Engineer and Implementation Consultant working at the intersection of financial technology and applied AI. By day I drive large-scale data and trading system integrations at a fintech firm serving major exchanges. Outside of that I build with LLMs — RAG pipelines, agentic assistants, and MCP servers.
-
-</td>
-</tr>
-</table>
 
 <p style="height:1.5em"></p>
 
