@@ -1,8 +1,19 @@
-# Hi there 👋 I'm Varsha Ramkumar
+<table>
+<tr>
+<td valign="top" width="30%">
+<img src="photo.jpg" alt="Varsha Ramkumar" width="200" style="border-radius: 50%"/>
+</td>
+<td valign="top" width="70%">
 
-> Implementation Consultant @ Fintech · AI Engineer · Building with LLMs, RAG & MCP
+# Hi there <img src="Hi.gif" width="29px"> I'm Varsha Ramkumar
 
-Varsha is an AI Engineer and Implementation Consultant working at the intersection of financial technology and applied AI. By day she drives large-scale data and trading system integrations at a fintech firm serving major exchanges. Outside of that she builds with LLMs — RAG pipelines, agentic assistants, and MCP servers. Currently based in Singapore, targeting AI Engineer roles
+> Implementation Consultant @ Fintech Firm · AI Engineer · Building with LLMs, RAG & MCP
+
+I'm an AI Engineer and Implementation Consultant working at the intersection of financial technology and applied AI. By day I drive large-scale data and trading system integrations at a fintech firm serving major exchanges. Outside of that I build with LLMs — RAG pipelines, agentic assistants, and MCP servers.
+
+</td>
+</tr>
+</table>
 
 <p style="height:1.5em"></p>
 
@@ -10,9 +21,9 @@ Varsha is an AI Engineer and Implementation Consultant working at the intersecti
 
 - 🏦 By day: **Implementation Consultant at a fintech firm** — driving trading engine API integrations and data pipeline architecture for major financial exchanges.
 - 🤖 By night: building **agentic systems, RAG pipelines, and MCP servers** — things that make LLMs actually useful in production.
-- 🧠 This week I built a [personal knowledge base MCP server](https://github.com/vvarshh/notes-mcp) that lets Claude search, summarise, and connect ideas across my notes.
+- 🧠 I built a [personal knowledge base MCP server](https://github.com/vvarshh/notes-mcp) that lets Claude search, summarise, and connect ideas across my notes.
 - 💬 I've deployed production RAG chatbots that reduced query resolution time by 40%.
-- 🌍 Actively creating on LinkedIn about AI agents, RAG, and what I'm building.
+- 🌍 I actively create on LinkedIn about AI agents, RAG, and what I'm building.
 - 📫 Reach me: [varsharsvp02@gmail.com](mailto:varsharsvp02@gmail.com)
 
 <h3>🤝🏻 Connect with Me</h3>
@@ -28,6 +39,29 @@ Varsha is an AI Engineer and Implementation Consultant working at the intersecti
 | Project | Description | Stack |
 |---|---|---|
 | [notes-mcp](https://github.com/vvarshh/notes-mcp) | Personal knowledge base MCP server — Claude can search, summarise & connect ideas across your notes | Python, MCP, FastMCP |
+
+## ✍️ Latest Posts
+
+<!-- LinkedIn Posts -->
+<table>
+<tr>
+<td align="center" width="33%">
+<a href="https://www.linkedin.com/posts/varsharamkumar_ai-agent-ecosystem-ugcPost-7418613439520051200-nykl" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-AI%20Agent%20Ecosystem-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</td>
+<td align="center" width="33%">
+<a href="https://www.linkedin.com/posts/varsharamkumar_product-thinking-machine-learning-ugcPost-7414126385595744256-2Ktm" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Product%20Thinking%20%26%20ML-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</td>
+<td align="center" width="33%">
+<a href="https://www.linkedin.com/posts/varsharamkumar_llms-vs-ai-agents-ugcPost-7412721286986039296-luCS" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-LLMs%20vs%20AI%20Agents-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</td>
+</tr>
+</table>
 
 ## 🧠 What I Work With
 
