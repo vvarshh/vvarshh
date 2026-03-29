@@ -28,6 +28,7 @@ I'm an AI Engineer and Implementation Consultant working at the intersection of 
 | Project | Description | Stack |
 |---|---|---|
 | [notes-mcp](https://github.com/vvarshh/notes-mcp) | Personal knowledge base MCP server — Claude can search, summarise & connect ideas across your notes | Python, MCP, FastMCP |
+| [ai-job-tracker](https://github.com/vvarshh/ai-job-tracker) | Live AI/ML job tracker for Singapore — pulls from MyCareersFuture, Google Jobs (LinkedIn/Indeed) & Remotive, with keyword search and sorting | Python, Streamlit, SerpAPI |
 
 ## ✍️ Latest Posts
 
