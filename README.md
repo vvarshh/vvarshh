@@ -29,6 +29,7 @@ I'm an AI Engineer and Implementation Consultant working at the intersection of 
 |---|---|---|
 | [notes-mcp](https://github.com/vvarshh/notes-mcp) | Personal knowledge base MCP server — Claude can search, summarise & connect ideas across your notes | Python, MCP, FastMCP |
 | [ai-job-tracker](https://github.com/vvarshh/ai-job-tracker) | Live AI/ML job tracker for Singapore — pulls from MyCareersFuture, Google Jobs (LinkedIn/Indeed) & Remotive, with keyword search and sorting | Python, Streamlit, SerpAPI |
+| [closet-app](https://github.com/vvarshh/closet-app) | Outfit diary — log a fit in 30 seconds, track wear counts, and get a weekly Wrapped of your style. All on-device, no account needed | React Native, Expo, SQLite |
 
 ## ✍️ Latest Posts
 
